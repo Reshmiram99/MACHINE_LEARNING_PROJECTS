@@ -1,4 +1,4 @@
-Iris Dataset Clustering Analysis
+Dataset Clustering Analysis
 --------------------------------
 
 Project Overview :
